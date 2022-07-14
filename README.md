@@ -208,14 +208,17 @@
 
 ### 48. Determine el voltaje de ca entre las terminales de cada capacitor y la corriente en cada rama del circuito de la figura 12-81.
 ![imagen](https://user-images.githubusercontent.com/105674953/179033889-afbfa8df-35fe-485f-ac84-5ea8eba20370.png)
-
-### 50. Si en la figura 12-81 C4 se abriera, determine los voltajes que se medirían entre las terminales de los otros capacitores.
 ![imagen](https://user-images.githubusercontent.com/105674953/179033927-7344ff7b-4e67-4e4f-b90e-314ac9888c2b.png)
 ![imagen](https://user-images.githubusercontent.com/105674953/179033966-db7d7bd1-336b-42eb-88b5-8967bc16d2e8.png)
 
-### 52. Idealmente, ¿cuál deberá ser la reactancia de un capacitor de desvío para eliminar un voltaje de ca de 10 kHz en un punto dado en un circuito amplificador?
+### 50. Si en la figura 12-81 C4 se abriera, determine los voltajes que se medirían entre las terminales de los otros capacitores.
+![imagen](https://user-images.githubusercontent.com/105674953/179034317-b1de5a04-c155-40ff-983a-8171b0dbf8fc.png)
+![imagen](https://user-images.githubusercontent.com/105674953/179034334-c6fc6a99-ce2d-46ec-9299-fcd246984da5.png)
 
+### 52. Idealmente, ¿cuál deberá ser la reactancia de un capacitor de desvío para eliminar un voltaje de ca de 10 kHz en un punto dado en un circuito amplificador?
+#### las frecuencias son de 15 kHz
 ### 54. En un circuito de capacitor conmutado, el capacitor de 100 pF se conmuta a una frecuencia de 8 kHz. ¿Qué valor de resistor se emula?
+![imagen](https://user-images.githubusercontent.com/105674953/179034402-a2a94a2a-1a86-4e5e-a394-7f62dae36673.png)
 
 
 
