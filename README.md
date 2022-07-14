@@ -57,32 +57,64 @@
 ![imagen](https://user-images.githubusercontent.com/105674953/179026161-6719b261-ddf0-4b8c-a99a-c4fe6fa14638.png)
 
 ### 18. Para una onda seno referida a 0° con valor rms de 6.37 V, determine el valor instantáneo en cada uno de los puntos siguientes:
+![imagen](https://user-images.githubusercontent.com/105674953/179028015-d258189f-47bc-40f2-9ef1-023af532460f.png)
+![imagen](https://user-images.githubusercontent.com/105674953/179028043-8fd4fd32-1d48-427b-bb3b-4de9f2e0269d.png)
+![imagen](https://user-images.githubusercontent.com/105674953/179028121-36b92c43-bc5e-4280-b05f-85b2bce70650.png)
+![imagen](https://user-images.githubusercontent.com/105674953/179028136-cc3bfe64-9292-4a06-a4f1-3cf326517792.png)
+![imagen](https://user-images.githubusercontent.com/105674953/179028150-6e9d1bcf-26e4-4db6-8baf-8991b3e0dd30.png)
+![imagen](https://user-images.githubusercontent.com/105674953/179028169-a91e9620-75b5-4f25-9c31-861d2d46087b.png)
+![imagen](https://user-images.githubusercontent.com/105674953/179028185-0e9ed8da-de4b-4f94-849e-80f1c2ce67eb.png)
 
 ### 20. Repita el problema 19 para el caso en que la onda seno A va 30° delante de la onda seno B.
+![imagen](https://user-images.githubusercontent.com/105674953/179028274-22d10cf8-9374-4924-960a-c659e76cf937.png)
+![imagen](https://user-images.githubusercontent.com/105674953/179028295-2206e9fc-0e92-460a-9eb6-bbb8362dbd09.png)
+![imagen](https://user-images.githubusercontent.com/105674953/179028335-a0f7a98a-eae6-460c-a3e8-e4b30eef8de0.png)
+![imagen](https://user-images.githubusercontent.com/105674953/179028347-b42dc201-d5c9-4082-81fd-43eda1d2cac3.png)
+![imagen](https://user-images.githubusercontent.com/105674953/179028374-c05468ba-6fbc-4094-bc4d-17d9c746cd79.png)
+![imagen](https://user-images.githubusercontent.com/105674953/179028384-2a7dc1ff-001f-48da-bcd3-1e2226ff0c72.png)
 
 ### 22. Trace un diagrama fasorial para representar las ondas seno de la figura 11-78 con respecto a la referencia de 0°.
+![imagen](https://user-images.githubusercontent.com/105674953/179028471-e89da8de-9882-419d-a4a4-c7e3b885433e.png)
 
 ### 24. Determine la frecuencia para cada velocidad angular:
+![imagen](https://user-images.githubusercontent.com/105674953/179028562-d36679d9-411d-440b-89a6-6bb3c80d9e6b.png)
+![imagen](https://user-images.githubusercontent.com/105674953/179028584-98e25b4b-3ccb-4db9-9f20-e855555e8248.png)
+![imagen](https://user-images.githubusercontent.com/105674953/179028617-2aba5551-df4f-4e9b-8706-46b999c57832.png)
+![imagen](https://user-images.githubusercontent.com/105674953/179028641-6cc9cefa-ca48-4fcd-a0ca-a9cc6c2fe080.png)
 
 ### 26. Se aplica un voltaje sinusoidal al circuito resistivo de la figura 11-80. Determine los valores siguientes:
+![imagen](https://user-images.githubusercontent.com/105674953/179028844-5a8fd3ae-8b99-4a07-964a-f3c62f82020e.png)
+![imagen](https://user-images.githubusercontent.com/105674953/179028862-9caecd85-eb90-470a-ab1b-c1c12e920828.png)
 
 ### 28. Determine el voltaje rms entre los extremos de R3 en la figura 11-82.
+![imagen](https://user-images.githubusercontent.com/105674953/179028879-10e8264b-0fec-4245-b2b9-a051b1f4f164.png)
+![imagen](https://user-images.githubusercontent.com/105674953/179028920-149aafa6-c3e7-442c-868a-cf827d0d8116.png)
+![imagen](https://user-images.githubusercontent.com/105674953/179028938-2c33a156-ffd1-4f9a-bc5c-53f6e15e6fb7.png)
 
 ### 30. ¿Cuánto voltaje de cd se debe agregar a una onda seno de 3 V rms para hacer el voltaje resultante no alterno (valores negativos)?
+![imagen](https://user-images.githubusercontent.com/105674953/179028954-c2093093-775e-44d2-8ee0-bc6d0201005b.png)
 
 ### * 32. La figura 11-83 muestra una fuente de voltaje sinusoidal dispuesta en serie con una fuente de cd. Efectivamente, los dos voltajes están superpuestos. Determine la disipación de potencia en el resistor de carga.
+![imagen](https://user-images.githubusercontent.com/105674953/179028974-53248ba7-8ca5-42f4-bd10-4ecec6bdbd55.png)
+![imagen](https://user-images.githubusercontent.com/105674953/179028997-0c234cf0-df17-448d-b51d-9d230c98bddf.png)
 
 ### 34. La frecuencia de repetición de una forma de onda pulsante es de 2 kHz, y el ancho de pulso es de 1 ms. ¿Cuál es el ciclo de trabajo en porcentaje?
+![imagen](https://user-images.githubusercontent.com/105674953/179029120-fb6103ab-0ff5-4338-b655-cf0d0bf66ea8.png)
 
 ### 36. Determine el ciclo de trabajo de cada una de las formas de onda mostradas en la figura 11-86.
+![imagen](https://user-images.githubusercontent.com/105674953/179029150-acdc7e0b-95f6-478d-a996-420ef7c113b5.png)
+![imagen](https://user-images.githubusercontent.com/105674953/179029166-746d0cd0-a00b-447b-9201-7fab38187fc9.png)
 
 ### 38. ¿Cuál es la frecuencia de cada una de las formas de onda mostradas en la figura 11-86?
+![imagen](https://user-images.githubusercontent.com/105674953/179029187-e96f838c-e1b3-4f09-a592-6e021e88dc33.png)
 
 ### 40. Una forma de onda no sinusoidal llamada escalonada se muestra en la figura 11-88. Determine su valor promedio.
 
 ### 42. ¿Cuál es la frecuencia fundamental de la onda cuadrada mencionada en el problema 41?
 
 ### 44. Con base en los ajustes del instrumento y en un examen de la pantalla del osciloscopio y de la tarjeta prototipo mostrados en la figura 11-90, determine la frecuencia y el valor pico de las señales de entrada y salida. La forma de onda mostrada es el canal 1. Trace la forma de onda del canal 2 como aparecería en el osciloscopio con los ajustes indicados.
+![imagen](https://user-images.githubusercontent.com/105674953/179029341-e0ec51c6-a805-4e7f-983e-77864ede0075.png)
+![imagen](https://user-images.githubusercontent.com/105674953/179029362-03cda7bc-a9fb-411c-9b8f-d23447f3730d.png)
 
 
 
@@ -91,8 +123,10 @@
 
 
 ### 2. Transforme los siguientes valores de microfarads a picofarads:
+![imagen](https://user-images.githubusercontent.com/105674953/179029391-e812958a-19bb-401c-856b-514e2221ec44.png)
 
 ### 4. Transforme los siguientes valores de farads a microfarads;
+![imagen](https://user-images.githubusercontent.com/105674953/179029419-3b2c6ec0-1cd7-423f-bd2c-4b88a41ff956.png)
 
 ### 6. ¿Qué tamaño de capacitor es capaz de guardar 10 mJ de energía con 100 V entre sus placas?
 
