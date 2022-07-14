@@ -41,6 +41,7 @@
 ![imagen](https://user-images.githubusercontent.com/105674953/179014358-59be08ea-4059-4026-a539-7f1361ae25e1.png)
 
 ### 4. Una onda seno tiene frecuencia de 50 kHz. ¿Cuántos ciclos completa en 10 ms?
+![imagen](https://user-images.githubusercontent.com/105674953/179030820-197b6e00-3652-40f7-aec5-7fff350f939f.png)
 
 ### 6. Cierto generador de cuatro polos gira a 3600 rpm. ¿Cuál es la frecuencia del voltaje que produce?
 ![imagen](https://user-images.githubusercontent.com/105674953/179016951-474c0ab5-5011-47d0-97e6-6791f314c019.png)
@@ -52,7 +53,7 @@
 ![imagen](https://user-images.githubusercontent.com/105674953/179023983-c0db4f29-f574-4f36-8f9b-2bdd31acd0f4.png)
 
 ### 14. Una onda seno tiene un pico positivo en 75° y otro con un pico positivo en 100°. ¿Cuánto se desfasa cada onda seno con respecto a la referencia de 0°? ¿Cuál es el ángulo de fase entre estas ondas?
-
+#### Respecto a 0 grados tiene un pico sinusoidal de 75gra  y en 15gra tiene una onda sinusoidal de 100 gra por lo tanto el angulo de la fase es de 25 gra
 ### 16. Cierta onda seno tiene un cruce por cero hacia positivo en 0° y valor rms de 20 V. Calcule su valor instantáneo en cada uno de los siguientes ángulos:
 ![imagen](https://user-images.githubusercontent.com/105674953/179026161-6719b261-ddf0-4b8c-a99a-c4fe6fa14638.png)
 
