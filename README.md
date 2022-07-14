@@ -1,8 +1,9 @@
 # INFORME-N6
 ## 1. Objetivos
-### Utilizar el método de la corriente en ramas paradeterminar cantidades desconocidas en un circuito
-### Describir el principio de operación de varios tipos de dispositivos electromagnéticos
-### Analizar el principio de inducción electromagnética
+### Exponer cómo se generan las ondas seno
+### Identificar los diversos valores de voltaje y corriente de una onda seno
+### Aplicar las leyes de circuito básicas a circuitos de ca resistivos
+### Describir las funciones y las características básicas de un capacitor ademas de sus tipos
 ## 2. Marco Teorico
 ### Forma de onda sinuicidal
 ![imagen](https://user-images.githubusercontent.com/105674953/178904709-1ef29211-52f2-4962-9a1e-297a46a05a1e.png)
@@ -147,7 +148,7 @@
 ## 4. Video
 https://youtu.be/4KUqreBimJg
 ## 5. Conclusiones
-### Mediante el estudio del metodos de los capitulos, se puede llegar a encontrar valores desconocidos que se encuentren en un circuito electrico de forma mas sencilla.
-### El tema de campos electromagneticos es muy extenso y un poco controvercial debido a que este puede ayudar o perjudicar a las personas dependiendo el uso que se le de y la ubicacion en donde haya mas radiacion electromagneticas.
+### Las ondas seno o las frecuencias son un tema muy importante puesto a que nos permiten conocer los periodos o frecuencias de una onda lo cual nos ayuda al momento de nosotros analizar circuitos con un osciloscopio puesto a que este muestra las ondas de un circuito pero nosotros tenemos que analizarlas.
+### La capacitancia es un tema muy importante que se tiene que estudiar de una forma correcta puesto a que estos capacitores se utilizaran en la mayoria nde nustros circuitos electricos y al no saber como es su funcionamiento se tendran varios problemas al moemnto de aplicarlos.
 ## 6. Biliografia
 #### Floyd, T. L. (n.d.). FLOYD FLOYD OCTAVA EDICIÓN OCTAVA. Retrieved May 18, 2022, from www.pearsoneducacion.net/floyd
