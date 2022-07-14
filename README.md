@@ -38,20 +38,23 @@
 
 
 ### 2. Calcule el periodo de cada uno de los siguientes valores de frecuencia:
+![imagen](https://user-images.githubusercontent.com/105674953/179014358-59be08ea-4059-4026-a539-7f1361ae25e1.png)
 
 ### 4. Una onda seno tiene frecuencia de 50 kHz. ¿Cuántos ciclos completa en 10 ms?
 
 ### 6. Cierto generador de cuatro polos gira a 3600 rpm. ¿Cuál es la frecuencia del voltaje que produce?
-
+![imagen](https://user-images.githubusercontent.com/105674953/179016951-474c0ab5-5011-47d0-97e6-6791f314c019.png)
 ### 8. El valor pico de una onda seno es de 12 V. Determine los siguientes valores:
-
+![imagen](https://user-images.githubusercontent.com/105674953/179020144-b1c6a4b8-ef40-4544-a7a9-5a942e705e42.png)
 ### 10. Para la onda seno de la figura 11-77, determine los valores pico, pico a pico, rms y promedio.
-
+![imagen](https://user-images.githubusercontent.com/105674953/179021221-6b72c860-b521-449d-8f16-5367f4c21470.png)
 ### 12. Cambie los siguientes valores angulares de radianes a grados:
+![imagen](https://user-images.githubusercontent.com/105674953/179023983-c0db4f29-f574-4f36-8f9b-2bdd31acd0f4.png)
 
 ### 14. Una onda seno tiene un pico positivo en 75° y otro con un pico positivo en 100°. ¿Cuánto se desfasa cada onda seno con respecto a la referencia de 0°? ¿Cuál es el ángulo de fase entre estas ondas?
 
 ### 16. Cierta onda seno tiene un cruce por cero hacia positivo en 0° y valor rms de 20 V. Calcule su valor instantáneo en cada uno de los siguientes ángulos:
+![imagen](https://user-images.githubusercontent.com/105674953/179026161-6719b261-ddf0-4b8c-a99a-c4fe6fa14638.png)
 
 ### 18. Para una onda seno referida a 0° con valor rms de 6.37 V, determine el valor instantáneo en cada uno de los puntos siguientes:
 
